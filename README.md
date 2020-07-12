@@ -11,5 +11,5 @@ After user data is collected, a random password will be generated using Javascri
 * A Copy buttom
     * This will copy the users password to the user's devices clipboard
 
-Link to github page to view files: https://github.com/alsricha/wk3-homework
-Link to application: https://alsricha.github.io/wk3-homework/
+* Link to github page to view files: https://github.com/alsricha/wk3-homework
+* Link to application: https://alsricha.github.io/wk3-homework/
