@@ -1,5 +1,5 @@
 # wk3-homework
-![alt tag](http://domain.com/path/to/img.png "Password Generator Screenshot")
+![alt tag](https://github.com/alsricha/wk3-homework/blob/master/Images/Password%20Generator%20Screenshot.png "Password Generator Screenshot")
 
 # Summary
 HTML and CSS and Javascript documents create a random password generator
